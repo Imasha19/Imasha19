@@ -55,7 +55,7 @@ People call me **Ima** 😊
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imasha19&show_icons=true&theme=tokyonight" height="160"/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imasha19&theme=tokyonight" height="160"/>
 </p>
 
