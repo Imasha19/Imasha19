@@ -7,10 +7,21 @@
 
 ---
 
-### 🌱 Currently Learning  
-- **Java**  
-- **MERN Stack (MongoDB, Express, React, Node.js)**  
-- **Machine Learning & Data Science basics**
+🌱 Currently Learning
+
+Data Science Specialization (SLIIT)
+
+Machine Learning, Deep Learning & Model Deployment
+
+Kotlin & Android App Development (Room DB, Services, RecyclerView, UI/UX)
+
+MERN Stack Development (MongoDB, Express, React, Node.js)
+
+Financial Management Systems Development (Balance Sheets, Profit/Loss, Petty Cash Reporting)
+
+UI/UX Design with Figma
+
+Agentic AI & LLM Integrations (Vite + React setups)
 
 ### 📫 How to Reach Me  
 **Email:** imashasandanayaka@gmail.com  
@@ -24,16 +35,11 @@ People call me **Ima** 😊
 <p align="left">
 <a href="https://linkedin.com/in/imasha-sandanayaka-0004232b6/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="https://facebook.com/jagathsandanayake" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
-</a>
+
 <a href="https://instagram.com/imasha_sandanayaka" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
-<a href="https://youtube.com/@imashasandanayaka" target="_blank">
-  <img src="https://skillicons.dev/icons?i=youtube" height="40"/>
-</a>
+
 </p>
 
 ---
@@ -51,15 +57,7 @@ People call me **Ima** 😊
   <img src="https://skillicons.dev/icons?i=c" height="40"/>
 </p>
 
----
 
-## 📊 GitHub Stats  
-<p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imasha19&theme=tokyonight" height="160"/>
-</p>
-
----
 
 ⭐ **Thank you for visiting my profile!**  
 Feel free to explore my projects 😊  
